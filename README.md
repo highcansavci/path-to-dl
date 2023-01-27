@@ -9,7 +9,10 @@ L2 - Regularization: Gaussian Prior and Gaussian Likelihood
 * Regularization for Logistic Regression:  
 ![Ekran Görüntüsü (738)](https://user-images.githubusercontent.com/43791867/214398222-48b99ebe-95e9-4cb2-a48f-55c9a5bbb7d5.png)  
 * Deep Learning Challenges:  
-![Ekran Görüntüsü (739)](https://user-images.githubusercontent.com/43791867/214999906-5f363f44-637a-4d07-9f9a-e18e1f5211b1.png)
+![Ekran Görüntüsü (739)](https://user-images.githubusercontent.com/43791867/214999906-5f363f44-637a-4d07-9f9a-e18e1f5211b1.png)  
+* Solving Class Imbalance:  
+![Ekran Görüntüsü (740)](https://user-images.githubusercontent.com/43791867/215000330-e9af8783-29bc-4e66-96e2-a99c6171f524.png)
+
 
 
 
