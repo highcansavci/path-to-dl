@@ -7,6 +7,9 @@ L2 - Regularization: Gaussian Prior and Gaussian Likelihood
 * ElasticNet:  
 ![Ekran Görüntüsü (737)](https://user-images.githubusercontent.com/43791867/212533695-cd1a0c8d-3a0c-47ea-ba41-f1952b8f3172.png)  
 * Regularization for Logistic Regression:  
-![Ekran Görüntüsü (738)](https://user-images.githubusercontent.com/43791867/214398222-48b99ebe-95e9-4cb2-a48f-55c9a5bbb7d5.png)
+![Ekran Görüntüsü (738)](https://user-images.githubusercontent.com/43791867/214398222-48b99ebe-95e9-4cb2-a48f-55c9a5bbb7d5.png)  
+* Deep Learning Challenges:  
+![Ekran Görüntüsü (739)](https://user-images.githubusercontent.com/43791867/214999906-5f363f44-637a-4d07-9f9a-e18e1f5211b1.png)
+
 
 
