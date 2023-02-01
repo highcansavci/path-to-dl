@@ -15,7 +15,10 @@ L2 - Regularization: Gaussian Prior and Gaussian Likelihood
 * ROC and AUC:  
 ![Ekran Görüntüsü (741)](https://user-images.githubusercontent.com/43791867/215000803-0afab982-7015-44fe-b61e-15f865d4adb3.png)  
 * Normalization:  
-![image](https://user-images.githubusercontent.com/43791867/215975828-fd036bd9-1f89-4c5d-9ccb-b885d99b236d.png)
+![image](https://user-images.githubusercontent.com/43791867/215975828-fd036bd9-1f89-4c5d-9ccb-b885d99b236d.png)  
+* Learning Rate:  
+![image](https://user-images.githubusercontent.com/43791867/216050198-2ab57cb1-14d7-4268-a7bf-84f5c4239f25.png)
+
 
 
 
