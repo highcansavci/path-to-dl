@@ -13,7 +13,10 @@ L2 - Regularization: Gaussian Prior and Gaussian Likelihood
 * Solving Class Imbalance:  
 ![Ekran Görüntüsü (740)](https://user-images.githubusercontent.com/43791867/215000330-e9af8783-29bc-4e66-96e2-a99c6171f524.png)  
 * ROC and AUC:  
-![Ekran Görüntüsü (741)](https://user-images.githubusercontent.com/43791867/215000803-0afab982-7015-44fe-b61e-15f865d4adb3.png)
+![Ekran Görüntüsü (741)](https://user-images.githubusercontent.com/43791867/215000803-0afab982-7015-44fe-b61e-15f865d4adb3.png)  
+* Normalization:  
+![image](https://user-images.githubusercontent.com/43791867/215975828-fd036bd9-1f89-4c5d-9ccb-b885d99b236d.png)
+
 
 
 
