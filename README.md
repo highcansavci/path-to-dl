@@ -17,7 +17,10 @@ L2 - Regularization: Gaussian Prior and Gaussian Likelihood
 * Normalization:  
 ![image](https://user-images.githubusercontent.com/43791867/215975828-fd036bd9-1f89-4c5d-9ccb-b885d99b236d.png)  
 * Learning Rate:  
-![image](https://user-images.githubusercontent.com/43791867/216050198-2ab57cb1-14d7-4268-a7bf-84f5c4239f25.png)
+![image](https://user-images.githubusercontent.com/43791867/216050198-2ab57cb1-14d7-4268-a7bf-84f5c4239f25.png)  
+* BRU Activation Function:  
+![image](https://user-images.githubusercontent.com/43791867/216244884-fd4582dd-d314-41c7-b183-3131cabb7c03.png)
+
 
 
 
